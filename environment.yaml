@@ -11,7 +11,7 @@ dependencies:
   - plotly
   - pandas
   - cuda
-  - pytorch==2.4.0
+  - pytorch=2.4.0
   - pytorch-cuda=12.1
   - sparsehash
   - pip
